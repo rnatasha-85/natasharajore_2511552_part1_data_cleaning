@@ -8,8 +8,6 @@ The objective of this project was to clean and validate a retail sales dataset c
 
 ### 2. Dataset Description
 
-Dataset Location : https://drive.google.com/drive/folders/1cw74bVyMhB-earvIhkARsd8ENDFXIu_E?usp=sharing \
-Part 1 folder \
 Data set file: raw_orders.xlsx
 
 The dataset contains order-level retail sales data exported from multiple internal systems.
